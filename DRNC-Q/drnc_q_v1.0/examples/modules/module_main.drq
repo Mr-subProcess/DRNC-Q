@@ -1,5 +1,0 @@
-program module_main;
-import "mathlib.drq";
-DRNCQ = "n", 5;
-print("square=" + square(n));
-print("cube=" + cube(n));
